@@ -3,4 +3,4 @@ a library derived from the "dictionary-storage" program i wrote earlier, just be
 so the library is used like so:
 
 from DictStore import dict_contain
-dict_contain (prod_name,prod_price).... etc
+dict_contain (prod_name,prod_price,n).... etc
